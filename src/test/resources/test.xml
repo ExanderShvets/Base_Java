@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Ring-Ukraine" verbose="1">
+    <test name="Home page test">
+        <classes>
+            <class name="products.doorbells.tests.DoorBellsTest"/>
+        </classes>
+    </test>
+</suite>
